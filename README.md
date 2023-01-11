@@ -5,11 +5,9 @@
 
 ## 🔭 I’m currently working on 
 - Codechef
-- Competative programming
-- 
+- leetcode
+- competitive programming
 
 ## 🌱 I’m currently learning
 - Java
-- 
-
--->
+- Python
