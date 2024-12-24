@@ -40,14 +40,16 @@ I am a **Pre-final Year B.Tech student** majoring in Computer Science and Engine
 ## 🌟 Fun Stats
 
 <div align="center">
+  <!-- Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=imyash2004&theme=radical&hide_border=true" alt="Streak Stats" />
   <br>
+  <!-- General GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=imyash2004&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imyash2004&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <!-- Top Languages (ensure it reflects your actual usage like C++ and Java) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imyash2004&langs_count=8&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
----
 
 ## 🎯 Animated Achievements & Stats
 <div align="center">
