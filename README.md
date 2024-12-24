@@ -36,13 +36,9 @@ I am a **Pre-final Year B.Tech student** majoring in Computer Science and Engine
 | [**Online Food Delivery API**](https://github.com/imyash2004/OnlineFoodDeliveryApi)              | Spring Boot, JWT Authentication, MySQL      | Developed API for seamless food delivery with dynamic filtering and secure sessions.             |
 
 ---
-
 ## 🌟 Fun Stats
 
 <div align="center">
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imyash2004&theme=radical&hide_border=true" alt="Streak Stats" />
-  <br>
   <!-- General GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=imyash2004&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
   <br>
@@ -50,10 +46,8 @@ I am a **Pre-final Year B.Tech student** majoring in Computer Science and Engine
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imyash2004&langs_count=8&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
-
 ## 🎯 Animated Achievements & Stats
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/u/yashag2004?ext=heatmap" alt="LeetCode Profile" />
   <br><br>
   <img src="https://komarev.com/ghpvc/?username=imyash2004&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile Views" />
   <br><br>
@@ -62,8 +56,6 @@ I am a **Pre-final Year B.Tech student** majoring in Computer Science and Engine
   <img src="https://img.shields.io/badge/Finalist-SIH%202024-red?style=for-the-badge" alt="SIH Finalist Badge" />
   <img src="https://img.shields.io/badge/LeetCode-500%2B%20Problems-orange?style=for-the-badge" alt="LeetCode Badge" />
 </div>
-
----
 
 ## 📖 Publications and Patents
 - **First Patent**: *SoundSense: Intelligent Sound Quality Monitoring for Hearing Devices and Headphones.*
