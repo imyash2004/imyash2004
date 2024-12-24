@@ -2,42 +2,43 @@
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="300" />
 
-I am a **Pre-final Year B.Tech student** majoring in Computer Science and Engineering at **Vellore Institute of Technology, Chennai**, with a CGPA of 9.02. Passionate about **competitive programming**, **software development**, and **machine learning**, I enjoy tackling real-world problems with innovative solutions.
+I am a **Pre-final Year B.Tech student** majoring in Computer Science and Engineering at **Vellore Institute of Technology, Chennai**, with a CGPA of 9.02. Passionate about **competitive programming**, **software development**, and **machine learning**, I strive to create impactful solutions while honing my technical skills.
 
 ---
 
-### 🚀 About Me
-- 🏆 **Smart India Hackathon 2024 Finalist**
-- 👨‍💻 Solved **<span id="leetcode-count">500+</span>** problems on [LeetCode](https://leetcode.com/u/yashag2004/) and **150+** on Coding Ninjas.
-- 📚 Author of a book on **Generative AI**.
-- 🔧 Developed 4+ major **software projects** and 2 **patents** filed.
+## 🚀 About Me
+- 🏆 **Finalist in Smart India Hackathon (SIH) 2024**
+- 🥇 **Winner**: BITWARS and Cyber Security Hackathon at VIT Chennai.
+- 📚 Published 3 patents and authored a book on **Generative AI**.
+- 💻 Solved **500+ problems** on [LeetCode](https://leetcode.com/u/yashag2004/) and **150+** on Coding Ninjas.
 
 ---
 
-### 🛠 My Skills
-#### Programming Languages:
-- Java, Python, C/C++, SQL
+## 🛠 Skills
+#### **Programming Languages**:
+- Java | Python | C/C++ | SQL
 
-#### Frameworks & Tools:
-- Spring Boot, Hibernate, Flask, AngularJS, ReactJS
-- Postman, Git, MySQL, JWT Authentication
+#### **Frameworks & Tools**:
+- Spring Boot | Hibernate | Flask | AngularJS | ReactJS
+- Git | MySQL | Postman | JWT Authentication
 
-#### Areas of Interest:
-- **Machine Learning**
-- **Generative AI**
-- **Backend Development**
+#### **Specializations**:
+- Generative AI | Backend Development | Machine Learning
 
 ---
 
-### 🔭 Current Projects
-- **[Hospital Management System](https://github.com/imyash2004/Hospital_Management_System)**: Role-based secure patient data and department management.
-- **[Phishing Detection Chrome Extension](https://github.com/imyash2004)**: Real-time phishing detection using machine learning.
-- **[Smart Contact Manager](https://github.com/imyash2004/SmartContact)**: Contact and profile management with Spring Boot.
-- **[Online Food Delivery API](https://github.com/imyash2004/OnlineFoodDeliveryApi)**: Secure JWT-authenticated API for seamless food ordering.
+## 🔭 Current Projects
+| **Project**                                                                                      | **Tech Stack**                              | **Description**                                                                                  |
+|--------------------------------------------------------------------------------------------------|---------------------------------------------|--------------------------------------------------------------------------------------------------|
+| [**Hospital Management System**](https://github.com/imyash2004/Hospital_Management_System)       | Java, MySQL, JSP                            | Configured role-based access for doctors and admins.                                             |
+| [**Phishing Detection Chrome Extension**](https://github.com/imyash2004)                         | Python, Flask, HTML, JS                     | Detects phishing attempts in real-time using ML models.                                          |
+| [**Smart Contact Manager**](https://github.com/imyash2004/SmartContact)                          | Spring Boot, Thymeleaf                      | Built a secure dashboard for contact management.                                                 |
+| [**Online Food Delivery API**](https://github.com/imyash2004/OnlineFoodDeliveryApi)              | Spring Boot, JWT Authentication, MySQL      | Developed API for seamless food delivery with dynamic filtering and secure sessions.             |
 
 ---
 
-### 🌟 Fun Stats
+## 🌟 Fun Stats
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=imyash2004&theme=radical&hide_border=true" alt="Streak Stats" />
   <br>
@@ -48,20 +49,40 @@ I am a **Pre-final Year B.Tech student** majoring in Computer Science and Engine
 
 ---
 
-### 📈 Animated Counters
+## 🎯 Animated Achievements & Stats
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=imyash2004&label=Profile%20Views&color=brightgreen&style=plastic" alt="Profile Views" />
-  <br>
   <img src="https://leetcard.jacoblin.cool/u/yashag2004?ext=heatmap" alt="LeetCode Profile" />
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=imyash2004&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile Views" />
+  <br><br>
+  <img src="https://badges.pufler.dev/visits/imyash2004/imyash2004?color=blue" alt="Profile Visit Count" />
+  <br><br>
+  <img src="https://img.shields.io/badge/Finalist-SIH%202024-red?style=for-the-badge" alt="SIH Finalist Badge" />
+  <img src="https://img.shields.io/badge/LeetCode-500%2B%20Problems-orange?style=for-the-badge" alt="LeetCode Badge" />
 </div>
 
 ---
 
-### 🔗 Let's Connect!
-- 💼 [LinkedIn](https://www.linkedin.com/in/yash-agarwal-b133b326a/)
-- 💻 [GitHub](https://github.com/imyash2004)
-- 🎯 [LeetCode](https://leetcode.com/u/yashag2004/)
+## 📖 Publications and Patents
+- **First Patent**: *SoundSense: Intelligent Sound Quality Monitoring for Hearing Devices and Headphones.*
+- **Second Patent**: *Integrated Multi-Technology Toll Collection System for Accurate Vehicle Detection.*
+- **Third Patent**: *SafeCool: Intelligent Monitoring System for Coolant Performance.*
+- 📚 Authored a book on **Generative AI**, showcasing insights into cutting-edge AI developments.
 
 ---
 
-📬 **Contact Me**: agarwalyash041@gmail.com
+## 🌐 Connect With Me
+<div align="center">
+  <a href="https://www.linkedin.com/in/yash-agarwal-b133b326a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Yash%20Agarwal-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/imyash2004" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-imyash2004-black?style=flat-square&logo=github" alt="GitHub" />
+  </a>
+  <a href="https://leetcode.com/u/yashag2004/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Yash%20Agarwal-yellow?style=flat-square&logo=leetcode" alt="LeetCode" />
+  </a>
+  <a href="mailto:agarwalyash041@gmail.com">
+    <img src="https://img.shields.io/badge/Email-agarwalyash041%40gmail.com-red?style=flat-square&logo=gmail" alt="Email" />
+  </a>
+</div>
